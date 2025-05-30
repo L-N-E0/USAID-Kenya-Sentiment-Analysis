@@ -6,3 +6,6 @@ __pycache__/
 # Ignore intermediate or cache outputs, but not raw/final data
 *.pkl
 *.json
+
+#Ignore csv files for intial experimentation phase
+*.csv
