@@ -1,0 +1,6 @@
+usaid-sentiment-kenya/
+├── data/        # Raw and processed data shared by all
+├── notebooks/   # Personal exploratory notebooks
+├── scripts/     # Shared, reusable code modules
+├── outputs/     # Charts, visuals, word clouds
+├── models/      # (Optional) For saving trained models
