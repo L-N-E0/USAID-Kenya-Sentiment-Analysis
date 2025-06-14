@@ -7,9 +7,3 @@ __pycache__/
 *.pkl
 *.json
 
-#Ignore csv files for intial experimentation phase
-*.csv
-
-
-# Ignore sensitive API key configuration file
-config.py
