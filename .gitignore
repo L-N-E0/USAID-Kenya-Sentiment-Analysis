@@ -8,3 +8,6 @@ __pycache__/
 *.json
 
 
+
+# Ignore config file with secrets
+config.py
