@@ -7,3 +7,5 @@ __pycache__/
 *.pkl
 *.json
 
+#Ignore csv files for intial experimentation phase
+*.csv
