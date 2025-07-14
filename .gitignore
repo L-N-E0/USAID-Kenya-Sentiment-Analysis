@@ -11,3 +11,6 @@ __pycache__/
 
 # Ignore config file with secrets
 config.py
+
+# Ignore csv files after data collection
+*.csv
