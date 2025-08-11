@@ -1,0 +1,25 @@
+# Core data handling
+pandas
+numpy
+
+# Natural Language Processing
+nltk
+spacy
+vaderSentiment
+bertopic
+gensim
+
+# Machine Learning & Vectorization
+scikit-learn
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# APIs and HTTP requests
+requests
+
+# Jupyter environment
+jupyter
+
